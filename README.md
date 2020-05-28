@@ -1,0 +1,1 @@
+# Plaka-Tan-ma-ve-Google-Spreadsheets
