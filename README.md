@@ -17,8 +17,8 @@
 -gspread <br/>
 -oauth2client.service_account <br/>
 ## **Kurulum**
-1. ![openalpr](https://cloud.openalpr.com/) adresinden bir hesap oluşturun ve gizli anahtarı test.py kod dosyasına ekleyin.
-2. Kayıtlar için bir Google Drive da dökümanımızı oluşturalım. ![Gerekli adımlar için..](plate_recognition)
+1. [openalpr](https://cloud.openalpr.com/) adresinden bir hesap oluşturun ve gizli anahtarı test.py kod dosyasına ekleyin.
+2. Kayıtlar için bir Google Drive da dökümanımızı oluşturalım. [(Gerekli adımlar için..)](plate_recognition)
 ## **Çalıştırma**
-Raspberry terminal üzerinden
+Raspberry terminal üzerinden <br/>
 `test.py`
