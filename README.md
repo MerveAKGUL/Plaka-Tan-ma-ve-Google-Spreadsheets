@@ -12,15 +12,15 @@
 -HDMI Kablo <br/>
 ## **Gerekli Python Kütüphaneleri**
 ```
--cv2 <br/>
--datetime <br/>
--requests <br/>
--gspread <br/>
--oauth2client.service_account <br/>
+-cv2 
+-datetime
+-requests
+-gspread
+-oauth2client.service_account
 ```
 ## **Kurulum**
 1. [openalpr](https://cloud.openalpr.com/) adresinden bir hesap oluşturun ve gizli anahtarı test.py kod dosyasına ekleyin.
-2. Kayıtlar için bir Google Drive da dökümanımızı oluşturalım. [(Gerekli adımlar için..)](plate_recognition)
+2. Kayıtlar için bir Google Drive da dökümanımızı oluşturalım. [(Gerekli adımlar için..)](Plate_Recognition.pptx)
 ## **Çalıştırma**
 Raspberry terminal üzerinden <br/>
 `test.py`
