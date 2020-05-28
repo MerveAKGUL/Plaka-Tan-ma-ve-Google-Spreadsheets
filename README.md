@@ -1,2 +1,3 @@
-# Plaka_Tespiti_ve_Google_Spreadsheets
-![Demo](plate_recognition.mp4)
+# OPENALPR Kullanarak Plaka Tespiti ve Google Tablolara Kayıt
+![Demo](plate_recognition.gif)
+
