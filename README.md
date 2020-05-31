@@ -9,6 +9,7 @@
 -SD Card <br/>
 -Raspberry Pi Camera <br/>
 -HDMI Cable <br/>
+![Hardware](hardware.jpg)
 ## **Python Libraries**
 ```
 -cv2 
