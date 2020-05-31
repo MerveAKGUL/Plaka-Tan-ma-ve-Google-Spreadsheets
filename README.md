@@ -1,4 +1,4 @@
-#Number Plate Recognition using OpenALPR and Saving to Google Spreadsheet (Raspberry Pi)
+# Number Plate Recognition using OpenALPR and Saving to Google Spreadsheet (Raspberry Pi)
 
   This project using Raspberry Pi, reading the license plates with the OpenALPR library, converting them to characters and saving the data to google spreadsheet.
 
