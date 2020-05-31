@@ -1,16 +1,15 @@
-# OPENALPR Kullanarak Plaka Tespiti ve Google Tablolara Kayıt (Raspberry Pi)
+#Number Plate Recognition using OpenALPR and Saving to Google Spreadsheet (Raspberry Pi)
 
-## **Projenin Amacı**
-  Raspberry Pi kullanarak OpenALPR kütüphanesi ile araç plakalarını okuyup, karakterlere çevirmek ve elde edilen veriyi google tablolara kaydetmek. 
+  This project using Raspberry Pi, reading the license plates with the OpenALPR library, converting them to characters and saving the data to google spreadsheet.
 
 ![Demo](plate_recognition.gif)
 
-## **Kullanılan Donanım**
+## **Hardware**
 -Rasberry Pi 3B <br/>
--SD Kart <br/>
+-SD Card <br/>
 -Raspberry Pi Camera <br/>
--HDMI Kablo <br/>
-## **Gerekli Python Kütüphaneleri**
+-HDMI Cable <br/>
+## **Python Libraries**
 ```
 -cv2 
 -datetime
@@ -18,9 +17,10 @@
 -gspread
 -oauth2client.service_account
 ```
-## **Kurulum**
-1. [openalpr](https://cloud.openalpr.com/) adresinden bir hesap oluşturun ve gizli anahtarı test.py kod dosyasına ekleyin.
-2. Kayıtlar için bir Google Drive da dökümanımızı oluşturalım. [(Gerekli adımlar için..)](Plate_Recognition.pptx)
-## **Çalıştırma**
-Raspberry terminal üzerinden <br/>
+## **Setup**
+1. Create an account in [openalpr](https://cloud.openalpr.com/) and copy the secret key from the OpenALPR CloudApi section.
+2. Add the secret key and change the country code in test.py.
+3. Create your document in Google Drive for records. [(steps to be taken..)](Plate_Recognition.pptx)
+## **Run**
+Open Raspberry Pi Terminal <br/>
 `test.py`
