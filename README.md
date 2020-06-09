@@ -4,6 +4,8 @@
 
 ![Demo](plate_recognition.gif)
 
+![Plate](plate.gif)
+
 ## **Hardware**
 -Rasberry Pi 3B <br/>
 -SD Card <br/>
